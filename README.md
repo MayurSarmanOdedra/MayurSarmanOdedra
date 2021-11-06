@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MayurSarmanOdedra
-- 👀 I’m interested in Salesforce Development
+- 👀 I’m interested in Salesforce Development, Node JS, React, and Machine Learning
 - 🌱 I’m currently learning CICD using Azure DevOps
 - 💞️ I’m looking to collaborate on anything that is interesting to learn and is related to Salesforce development.
 - 📫 How to reach me ...
